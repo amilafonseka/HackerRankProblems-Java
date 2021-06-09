@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+<
+java:S1170"!Make this final field static too.(ã•èþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã•èþÿÿÿÿ
+T
+java:S18544"7Remove this useless assignment to local variable "arr".(ŠšÏï8œõÃ±œ/
+`
+java:S18542">Remove this useless assignment to local variable "miniMaxSum".(—ÙØ¼þÿÿÿÿ8œõÃ±œ/
+L
+java:S24402"*Remove this instantiation of "MiniMaxSum".(—ÙØ¼þÿÿÿÿ8€àž‘œ/
+X	java:S1255"<This block of commented-out lines of code should be removed.(ýŽØÌ8œõÃ±œ/
+Q
+java:S14812"/Remove this unused "miniMaxSum" local variable.(—ÙØ¼þÿÿÿÿ8õÃ±œ/
+E
+java:S14814"(Remove this unused "arr" local variable.(ŠšÏï8õÃ±œ/
+A
+java:S5960%"+Remove this assertion from production code.(¯âó
